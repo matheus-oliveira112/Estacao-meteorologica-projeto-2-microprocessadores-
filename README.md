@@ -1,2 +1,2 @@
 # Estacao-meteorologica-projeto-2-microprocessadores-
-Neste trabalho será desenvolvido um projeto no qual simula uma estação meteorológica. Nele serão obtidos dados em relação a temperatura da estação, radiação solar, velocidade do vento e do nível do rio,. Após receber os dados serão feitas analises posteriores que ajudarão na tomada de decisão na estação.
+No segundo projeto da disciplina de Microprocessadores, foi utilizada a tecnologia ARM para o desenvolvimento de uma simulação de uma estação meteorológica, capaz de monitorar dados como temperatura, radiação solar, velocidade do vento e nível do rio, explorando a aquisição e o processamento de dados em sistemas embarcados.
